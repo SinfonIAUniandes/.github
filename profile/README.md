@@ -12,9 +12,9 @@ Our work spans from developing interactive solutions with the Pepper robot to pa
 
 ## Useful Links
 
-- **Official SinfonIA Website**: https://sinfonia.uniandes.edu.co 🌐
+- **Official SinfonIA Website**: https://sinfoniauniandes.github.io/SinfonIA-web/home 🌐
 - **SinfonIA YouTube Channel**: https://www.youtube.com/@SinfonIA-Uniandes 🎥
-- **Department of Systems and Computing Engineering**: https://sistemas.uniandes.edu.co 🖥️
+- **SinfonIA Instagram**: https://www.instagram.com/sinfonia_uniandes/ 📷
 
 ## Contact
 
